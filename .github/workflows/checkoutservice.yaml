@@ -1,4 +1,4 @@
-name: go lang
+name: go lang CI
 
 env:
   APP_NAME: checkoutservice
